@@ -1,22 +1,52 @@
 {
-  "students": [
+  "Quiz": [
     {
-      "id": "ef48",
-      "name": "",
-      "number": "",
-      "course": "full stack"
+      "id": "b359"
     },
     {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
+      "id": "f066",
+      "question": "a",
+      "Option1": "a",
+      "Option2": "a",
+      "Option3": "a",
+      "Option4": "aa",
+      "correct_ans": "a"
     },
     {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": "2798",
+      "question": "ow to add Javascript",
+      "Option1": "a",
+      "Option2": "c",
+      "Option3": "b",
+      "Option4": "d",
+      "correct_ans": "a"
+    },
+    {
+      "id": "6738",
+      "question": "What is the correct way to declare a variable in JavaScript? ",
+      "Option1": "variable x = 10;",
+      "Option2": " x = 10; ",
+      "Option3": "var x = 10; ",
+      "Option4": "int x = 10; ",
+      "correct_ans": "var x = 10;"
+    },
+    {
+      "id": "a508",
+      "question": "What is the correct JavaScript syntax to modify the content of the HTML element shown below?",
+      "Option1": "<p id=\"demo\">Welcome to JavaScript Quiz</p>",
+      "Option2": "document.getElement(\"p\").innerHTML = \"Hello World!\";",
+      "Option3": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+      "Option4": "document.getElementByName(\"p\").innerHTML = \"Hello World!\"; ",
+      "correct_ans": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";"
+    },
+    {
+      "id": "003d",
+      "question": "How do you check if a variable is an array in JavaScript? ",
+      "Option1": "a) isArray(x) ",
+      "Option2": "c) x instanceof Array ",
+      "Option3": "b) x.isArray() ",
+      "Option4": "d) typeof Array ",
+      "correct_ans": "a) isArray(x) "
     }
   ]
 }
