@@ -1,52 +1,40 @@
 {
   "Quiz": [
     {
-      "id": "b359"
+      "id": "0e08",
+      "question": "What does the let keyword do in JavaScript?",
+      "Option1": "It declares a variable globally.",
+      "Option2": "It declares a block-scoped variable.",
+      "Option3": "It declares a variable that is not block-scoped.",
+      "Option4": " It is used to declare constants only.",
+      "correct_ans": "It declares a block-scoped variable."
     },
     {
-      "id": "f066",
-      "question": "a",
-      "Option1": "a",
-      "Option2": "a",
-      "Option3": "a",
-      "Option4": "aa",
-      "correct_ans": "a"
+      "id": "5d86",
+      "question": "Which of the following is a way to define a function in JavaScript?",
+      "Option1": "function myFunc() {}",
+      "Option2": "const myFunc = function() {}",
+      "Option3": "var myFunc = () => {}",
+      "Option4": "All of the above",
+      "correct_ans": "All of the above"
     },
     {
-      "id": "2798",
-      "question": "ow to add Javascript",
-      "Option1": "a",
-      "Option2": "c",
-      "Option3": "b",
-      "Option4": "d",
-      "correct_ans": "a"
+      "id": "eee9",
+      "question": "Which method is used to convert a JSON string into a JavaScript object?",
+      "Option1": "JSON.stringify()",
+      "Option2": "JSON.toObject()",
+      "Option3": "JSON.parse()",
+      "Option4": "JSON.convert()",
+      "correct_ans": "JSON.parse()"
     },
     {
-      "id": "6738",
-      "question": "What is the correct way to declare a variable in JavaScript? ",
-      "Option1": "variable x = 10;",
-      "Option2": " x = 10; ",
-      "Option3": "var x = 10; ",
-      "Option4": "int x = 10; ",
-      "correct_ans": "var x = 10;"
-    },
-    {
-      "id": "a508",
-      "question": "What is the correct JavaScript syntax to modify the content of the HTML element shown below?",
-      "Option1": "<p id=\"demo\">Welcome to JavaScript Quiz</p>",
-      "Option2": "document.getElement(\"p\").innerHTML = \"Hello World!\";",
-      "Option3": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
-      "Option4": "document.getElementByName(\"p\").innerHTML = \"Hello World!\"; ",
-      "correct_ans": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";"
-    },
-    {
-      "id": "003d",
-      "question": "How do you check if a variable is an array in JavaScript? ",
-      "Option1": "a) isArray(x) ",
-      "Option2": "c) x instanceof Array ",
-      "Option3": "b) x.isArray() ",
-      "Option4": "d) typeof Array ",
-      "correct_ans": "a) isArray(x) "
+      "id": "46a2",
+      "question": "Which statement is true about setTimeout?",
+      "Option1": "It runs the code synchronously.",
+      "Option2": "It prevents the code from executing.",
+      "Option3": "It runs the code after a specified delay.",
+      "Option4": "It pauses the execution of code.",
+      "correct_ans": "It runs the code after a specified delay."
     }
   ]
 }
